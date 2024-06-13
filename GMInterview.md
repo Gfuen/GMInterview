@@ -16,9 +16,9 @@
   - Levels of Risk after controls in place
 - Phising
   - Form of social engineering where attackers trick people into revealing infor or downloading something
-- IDS
+- IDS (Intrusion Detection System)
   - Placed out of band behind firewall
-- IPS 
+- IPS (Instrustion Prevention System)
   - Placed in band behind firewall to reduce load and do deeper packet inspections
 - Cloud Computing
   - Delivery of on demand computing services
