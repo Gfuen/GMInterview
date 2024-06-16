@@ -2,7 +2,7 @@
 
 ## Terms
 
-- Nist
+- NIST
   - National Institute of Standards and Technology
 - ISO
   - International Organization for Standardization
