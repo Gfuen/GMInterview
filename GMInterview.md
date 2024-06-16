@@ -36,7 +36,7 @@
 - Have you ever had trouble or made a mistake at work
   - Thick app pentest ask
 - Describe a time you were stressed
-  - Ask for help on client with tools and stuff from management
+  - Ask for help on client with tools and stuff from management and performing maintenance testing
 - Why do you want this job
   - I want this job because it combines my passion for infrastructure like AWS and Incident Response and being able to bring a security engineering mindset while automating things for IR
 - 
