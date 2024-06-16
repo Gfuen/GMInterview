@@ -80,7 +80,7 @@
 ## Programming Terms
 
 - Polymorphism
-  - This concept allows us to create methods with the same name but different method signatures. 
+  - This concept allows us to create methods with the same name but different method signatures. Ex: Person class and Role function under Employee or Father class.
 - Data Abstraction
   - This concept allows us to hide the implementation from the user but shows only essential information to the user.
 - Inheritance
