@@ -77,6 +77,17 @@
   - Containment, eradication, and recovery
   - Post event activity
 
+## Programming Terms
+
+- Polymorphism
+  - This concept allows us to create methods with the same name but different method signatures. 
+- Data Abstraction
+  - This concept allows us to hide the implementation from the user but shows only essential information to the user.
+- Inheritance
+  - This concept allows us to inherit or acquire the properties of an existing class into a newly created class. Provides Code reusability
+- Encapsulation
+  - This concept allows us to bind data and functions of a class into an entity. Protects data and functions from outside interference and misuse.
+
 ## Questions to ask
 
 - What does success look like for this job?
